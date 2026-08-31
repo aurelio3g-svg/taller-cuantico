@@ -1,4 +1,4 @@
-# taller-cuantico
-Laboratorio para aprender Git y GitHub sin provocar una ignominia informática.
-primer experimento:
-entendet como funciona un commit sin destruir el continuo espacio-tiempo.
+# experimento ignominioso
+kelvin tomo el controlo del taller cuantico.
+el perturvador de estados cuanticos marca 5 kiloamperes.
+todo esta perdido 

@@ -1,4 +1,5 @@
-# experimento ignominioso
-kelvin tomo el controlo del taller cuantico.
-el perturvador de estados cuanticos marca 5 kiloamperes.
-todo esta perdido 
+#taller cuantico
+lavoratorio para aprender git y github sin provocar una ignominia informaticsa
+primer experimento:
+entender como funcionaun commit sin destruirel continua espacio tiempo.
+
